@@ -1,0 +1,18 @@
+#pokemon {
+    width: 75%;
+    display: inline-block;
+}
+
+#pokedex {
+    position: fixed;
+    border: 30px solid red;
+    width: 15%;
+    height: 500px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+
+h3 {
+    text-align: center;
+}
